@@ -1,6 +1,6 @@
 
 = TODO:
-- [ ] go to settings > pages, change "source" to "Github Actions"
+- [X] go to settings > pages, change "source" to "Github Actions"
 - [ ] create form account or change contact page to just be email/number
 - [ ] buy domain
 - [ ] set up email? forwarding?
