@@ -7,3 +7,4 @@
 - [ ] delete old blog posts
 - [ ] create a few more blog posts, show ch how to use hugo new 
 
+- hello
